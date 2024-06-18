@@ -1,0 +1,12 @@
+###  My all details  ###
+print("Name: SANTOSH ADHIKARI")
+print("Role: Mobile app developer (Flutter Developer)")
+print("Position: CEO and Founder of SMAIT Technology")
+print("Location: Pokhara - 14 Chauthe, Nepal")
+print("Published Apps: 10+ apps on Play Store and App Store")
+print("Key Projects: Ludo Master, Chess Offline Boards Game")
+print("App Store: Ludo Offline Board Game, Savana Sushi")
+print("Other Apps: Vooeat, Vooeat: Driver App, ")
+print("Experience: Extensive mobile app development expertise")
+print("Versatile: Works on diverse app categories")
+print("Contact: santosh.ad215@gmail.com, smaitsoftware.com")
