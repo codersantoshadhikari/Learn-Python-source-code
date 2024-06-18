@@ -1,8 +1,9 @@
 ###  My all details  ###
 print("Name: SANTOSH ADHIKARI")
+print("Location: Pokhara - 14 Chauthe, Nepal")
+print("Education: MBA - Ethical Hacking")
 print("Role: Mobile app developer (Flutter Developer)")
 print("Position: CEO and Founder of SMAIT Technology")
-print("Location: Pokhara - 14 Chauthe, Nepal")
 print("Published Apps: 10+ apps on Play Store and App Store")
 print("Key Projects: Ludo Master, Chess Offline Boards Game")
 print("App Store: Ludo Offline Board Game, Savana Sushi")
