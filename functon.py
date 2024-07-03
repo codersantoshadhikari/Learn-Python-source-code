@@ -7,3 +7,9 @@ def displayName():
     print("Santosh Adhikari")
 
 displayName()
+
+### create a function that display Chauthe 14 Pokhara
+def displayLocation():
+    print("Pokhara - 14 Chauthe, Nepal")
+
+displayLocation()
