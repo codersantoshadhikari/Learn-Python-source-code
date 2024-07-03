@@ -25,3 +25,20 @@ def displayEven(start,end):
 
 displayEven(start,end)
 
+### 1 No parameter & returen type
+### 2 parameter & return type
+## 3 parameter & return type
+### 4 parameter & return type
+
+
+### 1 No parameter & returen type
+## if there is nothing inside the function body then it will return None
+## if there is nothing inside the function body then it will return None
+
+def display_details():
+    print("Santosh Adhikari")
+    print("i ma from Kathmandu")
+    print("coder")
+    print("developer")
+
+display_details()
