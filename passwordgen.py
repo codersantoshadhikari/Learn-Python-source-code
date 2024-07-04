@@ -1,5 +1,5 @@
-    ### create a function to that gemerate randam password
-    ### Option : use pramater for for no of character in password
+## Ceate a function to that generate randam password
+### Option : use parameter for for no of character in password
 
 
 import random   
