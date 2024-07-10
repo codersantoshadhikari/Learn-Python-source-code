@@ -35,6 +35,7 @@ elif option == 2:
         with open("product.csv", "r") as f:
             print("Product List:")
             print(f.read())
+            
     except FileNotFoundError:
         print("No products found. Please add some products first.")
 
@@ -54,3 +55,6 @@ elif option == 3:
             print("Product not found.")
     except FileNotFoundError:
         print("No products found. Please add some products first.")
+
+else:
+    print("Invalid option. Please try again.")
