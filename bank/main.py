@@ -1,4 +1,6 @@
 from customers import Customer
+from customers import view_all_customers
+
 
 options_text = """
 waht do you want to do:
@@ -24,7 +26,7 @@ if option == 1:
     print(f"Customer {c.name} added successfully")
 
 elif option == 2:
-    print("View all customers")
+    print("View All customers")
     f = open("customers.csv", "r")
     print(f.read())
     f.close()
