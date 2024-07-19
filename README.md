@@ -26,7 +26,7 @@ To get started with Python, you'll need to have Python installed on your machine
 
 Follow the instructions on the Python website to install Python on your machine. Once installed, you can verify the installation by running the following command in your terminal or command prompt:
 
-```sh
+
 python --version
 
 
@@ -39,6 +39,3 @@ Web Scraper
 Game Development
 Ludo Master Game
 
-
-
-```sh
