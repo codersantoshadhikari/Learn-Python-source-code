@@ -4,7 +4,7 @@
 
 
 # Define the lists of names and addresses
-names = ['Manish Ji', 'Ram Ji', 'Hari Ji', 'Bisal Ji', 'Sita Ji']
+names = ['Manish Ji', 'Ram Ji', 'Hari sir', 'Bisal Ji', 'Sita Ji']
 addresses = ['USA', 'Kathmandu', 'Pokhara', 'Bhaktapur', 'Lalitpur']
 
 
